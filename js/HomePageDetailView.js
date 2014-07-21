@@ -37,15 +37,6 @@ define([
         },
 
         render: function(response){
-            var parseDate = function(dateTime){
-                var date = new Date(dateTime);
-                return date.getFullYear() +'年'+ (date.getMonth()+1) +'月'+ date.getDate() + '日';
-            };
-
-            _.each(response, function(data,index){
-                data["created"] = parseDate(data["created"]);
-            });
-
             var about = {
                 about:urlConfig["about"],
                 aboutcompany:urlConfig["aboutcompany"]
