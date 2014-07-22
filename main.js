@@ -1,7 +1,8 @@
 require.config({
     paths: {
         'text': 'text',
-        jquery: 'jquery'
+        jquery: 'jquery',
+        json: 'require/json'
     },
     shim: {
         underscore: {
