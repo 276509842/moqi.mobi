@@ -33,7 +33,6 @@
  - 压缩js脚本(Minify Javascript)
  - 部署前将HTML中的数据用``configure.json``中替换
  - 选定后台Server(框架未定)
- - 添加多说评论
 
 ##交流讨论
 
@@ -46,6 +45,8 @@ QQ群: 344271543
 2. [构建基于Javascript的移动web CMS——Hello,World](http://www.phodal.com/blog/use-jquery-backbone-mustache-build-mobile-app-cms-simple-example/)
 
 3. [构建基于Javascript的移动web CMS——模板](http://www.phodal.com/blog/use-jquery-backbone-mustache-build-mobile-app-cms-generate-html/)
+
+4. [构建基于Javascript的移动web CMS——添加jQuery插件](http://www.phodal.com/blog/use-jquery-backbone-mustache-build-mobile-app-cms-add-jquery-plugins/)
 
 ## Liscense
 
